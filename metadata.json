@@ -1,0 +1,8 @@
+{
+  "name": "BodyBuilding Load Calculator (Top Set + Back Off)",
+  "description": "An advanced calculator for bodybuilders using the Top Set + Back Off + Metabolic Drop training method. It calculates warm-up, heavy, and volume sets based on a single Top Set weight input, featuring an integrated AI Coach for session optimization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
